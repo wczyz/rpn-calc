@@ -42,7 +42,7 @@ executable rpn-calc
   hs-source-dirs: app
   main-is: Main.hs
   build-depends:
-      base ^>=4.16.3.0
+      base
     , rpn-calc
   ghc-options:
     -O
