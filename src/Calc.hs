@@ -1,5 +1,6 @@
 module Calc 
   ( calculate
+  , Err(..)
   )
   where
 

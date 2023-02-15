@@ -32,7 +32,8 @@ library
   import: common-settings
   hs-source-dirs: src
   build-depends:
-    base
+      base
+    , transformers
   exposed-modules:
     Calc
       Calc.Internal
